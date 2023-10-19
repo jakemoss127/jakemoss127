@@ -12,7 +12,7 @@ Skills: React / CSS / HTML / JavaScript / SQL Server / C++ / Java
 - 📫 How to reach me: jacobmoss@ufl.edu 
 
 
-[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Git-icon-white.svg/2048px-Git-icon-white.svg.png' alt='github' height='40'>](https://github.com/jakemoss127)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jacob-moss-uf/)  [<img src='https://cdn.jsdelivr.net/npm/simpl e-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jkemoss/)  
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Git-icon-white.svg/2048px-Git-icon-white.svg.png' alt='github' height='40'>](https://github.com/jakemoss127)  [<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Instagram-512.png)' alt='linkedin' height='40'>](https://www.linkedin.com/in/jacob-moss-uf/)  [<img src='https://cdn.jsdelivr.net/npm/simpl e-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jkemoss/)  
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
